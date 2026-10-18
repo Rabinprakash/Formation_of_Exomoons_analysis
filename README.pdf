@@ -1,0 +1,44 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 312 >>
+stream
+BT
+/F1 20 Tf
+72 740 Td
+(Formation of Exomoons Analysis) Tj
+0 -32 Td
+/F1 12 Tf
+(Overview: This repository studies giant-impact moon formation outcomes across impact angles from 40 to 70 degrees.) Tj
+0 -20 Td
+(Includes vapor fraction, moon seed mass, particle fate, and orbital stability analysis.) Tj
+0 -20 Td
+(Project repository: https://github.com/Rabinprakash/Formation_of_Exomoons_analysis) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000062 00000 n 
+0000000124 00000 n 
+0000000270 00000 n 
+0000000412 00000 n 
+0000000451 00000 n 
+trailer
+<< /Root 1 0 R /Size 6 >>
+startxref
+451
+%%EOF
